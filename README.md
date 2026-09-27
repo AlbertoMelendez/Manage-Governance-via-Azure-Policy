@@ -39,3 +39,7 @@ Configure and test resource locks
 <img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/43a0d8db-7753-401e-ac01-71cf43ecacee" />
 
 <img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/2a329339-2371-4603-897d-5bd03de27a39" />
+
+Clean up with Azure CLI 
+
+<img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/c3acd4d9-31db-43ef-8a50-b9fa2d238973" />
